@@ -15,6 +15,7 @@ $RECYCLE.BIN/
 .idea/
 *.iml
 *.iws
+.gitigrore
 
 # VS Code
 .vscode/
